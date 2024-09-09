@@ -2,7 +2,7 @@ import React from 'react';
 function Class2()
 {
     let age=18;
-    let name="Praveena";
+    let name="Vignesh";
     let setStatus=false;
     let userDefault=undefined;
     let responseValue=null;
