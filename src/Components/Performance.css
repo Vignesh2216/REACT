@@ -1,0 +1,67 @@
+.performance-container {
+  background-color: #000; 
+  color: white; 
+  padding: 20px;
+  min-height: 100vh; 
+}
+
+.performance-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.performance-header h1 {
+  font-size: 2rem;
+}
+
+.performance-header p {
+  font-size: 1rem;
+}
+
+.performance-content {
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+.performance-metrics {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+  flex-wrap: wrap; 
+  margin-bottom: 20px;
+}
+
+.metric-card {
+  background-color: #333; 
+  color: white; 
+  padding: 15px;
+  border-radius: 5px;
+  width: 150px; 
+  text-align: center;
+}
+
+.performance-summary {
+  background-color: #222; 
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+}
+
+.tab-button {
+  background-color: #333; 
+  color: white; 
+  border: none;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.tab-button:hover {
+  background-color: #444; 
+}
